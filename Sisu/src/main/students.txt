@@ -1,0 +1,5 @@
+A123;ass;2010;2050;Anestesiologian ja tehohoidon erikoislääkärikoulutus (56/2015);Anestesiologian ja tehohoidon erikoislääkärikoulutus
+B123;null;null;null;null;null
+C123;null;null;null;null;null
+D123;null;null;null;null;null
+1234;heidi s;2015;2025;Bachelor's Programme in Science and Engineering;Computing and Electrical Engineering
