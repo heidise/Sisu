@@ -9,9 +9,17 @@ Group members and word division:
 - Shuang: Frontend (GUI)
 - Venla: Testing
 
-**Running the code: SISU has been implemented and run on Apache Netbeans.**
+**Running the code:**
+
+SISU is a Java Maven project, so to run it you can use Apache Netbeans or use the terminal:
+
+- `mvn clean install`
+- `mvn javafx:run`
+
+Known fault is that fetching the data lots of some time when the user logs in to the system. In the documentation, known faults have been explained.
 
 Some snippets of the project (login view and study planning view):
+
 ![login view](https://github.com/heidise/Sisu/blob/main/Documentation/login_view.PNG)
 
 ![study planning view](https://github.com/heidise/Sisu/blob/main/Documentation/Study_planning_view.PNG)
